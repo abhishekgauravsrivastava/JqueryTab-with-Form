@@ -1,0 +1,2 @@
+# JqueryTab-with-Form
+I have a form and into this form, I have Jquery-tabs . In my ViewModel, I added the data annotations for each item...  My problem is: when the submit button is hit, the validation occours normally on the active tab, but in the other tabs (that are hidden), the validation seems not working... it only work if i switch to that tab and try to submit the form again, than that tab will be validated.  How can i get the data annotations to work on hidden tabs the same way they do in the active tab?
